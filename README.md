@@ -1,0 +1,2 @@
+# truthology
+pyschology + socialology = truthology
